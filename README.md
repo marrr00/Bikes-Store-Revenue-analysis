@@ -1,4 +1,4 @@
-# Bikes Store Revenue analysis
+# Revenue Analysis of Bikes Store
 A data analytics project for analyzing revenue of a bikes store using SQL, Excel, and Tableau.
 ## Business Case 
 Theexecutive team asks for sales activity within the company and want to gain insight of varius trends happening in sales volume over 2016 to 2018.
